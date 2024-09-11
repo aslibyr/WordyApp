@@ -41,6 +41,7 @@ class LearnedFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         initAdapter()
         initCollectors()
+        setListeners()
         val words = loadWordsFromJson()
         viewModel.updateLearnedWords(words)
         binding.recyclerView.addOnScrollListener(object : RecyclerView.OnScrollListener() {
@@ -92,6 +93,12 @@ class LearnedFragment : Fragment() {
             }
             .create()
         dialog.show()
+    }
+
+    private fun setListeners() {
+        binding.resetButton.setOnClickListener() {
+            binding.recyclerView.scrollToPosition(0)
+        }
     }
 
     private fun loadWordsFromJson(): List<Word> {
