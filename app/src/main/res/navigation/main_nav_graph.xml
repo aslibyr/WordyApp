@@ -1,0 +1,18 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/wordlistFragment">
+
+    <fragment
+        android:id="@+id/wordlistFragment"
+        android:name="com.app.wordyapp.ui.wordlist.WordListFragment"
+        android:label="WordListFragment"
+        tools:layout="@layout/fragment_wordlist" />
+    <fragment
+        android:id="@+id/learnedFragment"
+        android:name="com.app.wordyapp.ui.learned.LearnedFragment"
+        android:label="LearnedFragment"
+        tools:layout="@layout/fragment_learned" />
+
+</navigation>
