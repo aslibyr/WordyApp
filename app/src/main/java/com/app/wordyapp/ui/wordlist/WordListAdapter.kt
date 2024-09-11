@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import coil.load
-import com.app.wordy.data.Word
+import com.app.wordyapp.data.Word
 import com.app.wordyapp.databinding.WordItemBinding
 
 class WordListAdapter(val callback: (Word) -> Unit, private val context: Context) :

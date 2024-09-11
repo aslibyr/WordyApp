@@ -1,4 +1,4 @@
-package com.app.wordy.data
+package com.app.wordyapp.data
 
 data class Word(
     val word: String,

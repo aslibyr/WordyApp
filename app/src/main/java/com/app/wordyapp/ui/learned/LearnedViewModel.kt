@@ -2,7 +2,7 @@ package com.app.wordyapp.ui.learned
 
 import android.content.SharedPreferences
 import androidx.lifecycle.ViewModel
-import com.app.wordy.data.Word
+import com.app.wordyapp.data.Word
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

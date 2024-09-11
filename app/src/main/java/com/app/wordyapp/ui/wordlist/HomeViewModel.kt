@@ -2,7 +2,7 @@ package com.app.wordyapp.ui.wordlist
 
 import android.content.SharedPreferences
 import androidx.lifecycle.ViewModel
-import com.app.wordy.data.Word
+import com.app.wordyapp.data.Word
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -14,7 +14,7 @@ class HomeViewModel @Inject constructor(private val sharedPreferences: SharedPre
     ViewModel() {
 
     private val _words = MutableStateFlow<List<Word>>(emptyList())
-    val words: StateFlow<List<Word>> = _words
+    var words: StateFlow<List<Word>> = _words
 
     fun updateLearnedWords(newWords: List<Word>) {
         _words.value = newWords

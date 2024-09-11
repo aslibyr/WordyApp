@@ -10,7 +10,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.app.wordy.data.Word
+import com.app.wordyapp.data.Word
 import com.app.wordyapp.databinding.FragmentHomeBinding
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken

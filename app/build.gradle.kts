@@ -53,6 +53,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.swiperefreshlayout)
     implementation(libs.firebase.crashlytics.buildtools)
+    implementation(libs.androidx.fragment.testing)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)
@@ -64,4 +65,15 @@ dependencies {
     implementation(libs.navigation.ui)
     implementation(libs.coil)
     implementation(libs.converter.gson)
+
+    // Testing
+    testImplementation(libs.junit)
+    androidTestImplementation(libs.androidx.test.ext.junit)
+    androidTestImplementation(libs.espresso.core)
+    androidTestImplementation(libs.hilt.android.testing)
+    kspAndroidTest(libs.hilt.compiler)
+    androidTestImplementation(libs.hilt.android.testing.v2481)
+    testImplementation(libs.mockito.core)
+    testImplementation(libs.androidx.core.testing)
+    testImplementation(libs.kotlinx.coroutines.test)
 }
