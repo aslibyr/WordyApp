@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.app.wordy.data.Word
 import com.app.wordyapp.databinding.FragmentLearnedBinding
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.reflect.TypeToken
@@ -42,10 +43,17 @@ class LearnedFragment : Fragment() {
         initCollectors()
         val words = loadWordsFromJson()
         viewModel.updateLearnedWords(words)
-        binding.swipeRefreshLayout.setOnRefreshListener {
-            binding.swipeRefreshLayout.isRefreshing = false
-        }
+        binding.recyclerView.addOnScrollListener(object : RecyclerView.OnScrollListener() {
+            override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) {
+                super.onScrolled(recyclerView, dx, dy)
 
+                val layoutManager = recyclerView.layoutManager as LinearLayoutManager
+                val firstVisibleItemPosition = layoutManager.findFirstVisibleItemPosition()
+
+                binding.resetButton.visibility =
+                    if (firstVisibleItemPosition > 2) View.VISIBLE else View.GONE
+            }
+        })
     }
 
     private fun initAdapter() {

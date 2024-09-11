@@ -1,0 +1,13 @@
+<!-- res/drawable/rounded_card_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" />
+    <corners android:radius="20dp" />
+    <stroke
+        android:width="2dp"
+        android:color="#DDDDDD" />
+    <padding
+        android:bottom="8dp"
+        android:left="8dp"
+        android:right="8dp"
+        android:top="8dp" />
+</shape>
