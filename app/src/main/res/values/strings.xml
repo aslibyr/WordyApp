@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">WordyApp</string>
+    <string name="app_name">Wordy</string>
+    <string name="reset_button">Reset Button</string>
+    <string name="word_image">Word Image</string>
 </resources>
