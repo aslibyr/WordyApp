@@ -13,6 +13,10 @@ constraintlayout = "2.1.4"
 coilVersion = "2.7.0"
 hilt = "2.52"
 navigation = "2.7.7"
+swiperefreshlayout = "1.1.0"
+firebaseCrashlyticsBuildtools = "3.0.2"
+retrofit = "2.11.0"
+
 
 [libraries]
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
@@ -28,6 +32,9 @@ hilt-android = { group = "com.google.dagger", name = "hilt-android", version.ref
 navigation-fragment = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navigation" }
 navigation-ui = { group = "androidx.navigation", name = "navigation-ui-ktx", version.ref = "navigation" }
 coil = { group = "io.coil-kt", name = "coil", version.ref = "coilVersion" }
+androidx-swiperefreshlayout = { group = "androidx.swiperefreshlayout", name = "swiperefreshlayout", version.ref = "swiperefreshlayout" }
+firebase-crashlytics-buildtools = { group = "com.google.firebase", name = "firebase-crashlytics-buildtools", version.ref = "firebaseCrashlyticsBuildtools" }
+converter-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

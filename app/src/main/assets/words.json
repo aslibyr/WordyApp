@@ -1,0 +1,262 @@
+[
+  {
+    "word": "Cat",
+    "meaning": "Kedi",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-cat-with-balloon-icon-feline-fun-with-floating-toy-illustration-logo_762678-103833.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Dog",
+    "meaning": "Köpek",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-dog-frisbee-air-icon-exciting-pet-game-moment-illustration-logo_762678-105051.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "House",
+    "meaning": "Ev",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-house-property-illustration_23-2151682346.jpg?t=st=1725878216~exp=1725881816~hmac=5f195124ac83560e86edd1a2547e174cc5cb768d45aa45194af09b8edc785adc&w=996"
+  },
+  {
+    "word": "Tree",
+    "meaning": "Ağaç",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-tree-icon-nature-environment-logo-illustration_762678-35794.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Book",
+    "meaning": "Kitap",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-reading-with-book-esssential_23-2151295080.jpg?t=st=1725878292~exp=1725881892~hmac=607d7bdff694830fb1aa0e90891aea22dc5c54e4712878658f6ef3c3623d2d1c&w=826"
+  },
+  {
+    "word": "Car",
+    "meaning": "Araba",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-children-s-toy-car_23-2149345298.jpg?t=st=1725949243~exp=1725952843~hmac=1e28936aa4c185cc9451f123df59cc79ca09fb4aff56d675e9d0a88c6cd29875&w=826"
+  },
+  {
+    "word": "Sun",
+    "meaning": "Güneş",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-ramadan-kareem-sun_165789-942.jpg?t=st=1725949303~exp=1725952903~hmac=7d6ec870830ac17dfc5a8f23c4771689ab44d70046122cb508fda1c58cfbb603&w=826"
+  },
+  {
+    "word": "Moon",
+    "meaning": "Ay",
+    "imageUrl": "https://img.freepik.com/free-vector/glossy-crescents-wich-stars-white-glossy-clouds-isolated-white-background-realistic-d-vector_145391-1335.jpg?t=st=1725949332~exp=1725952932~hmac=05659928d85e5e177c1d08c744dc561ad46b048a4047443c05c0d1661ad646e9&w=1380"
+  },
+  {
+    "word": "Water",
+    "meaning": "Su",
+    "imageUrl": "https://img.freepik.com/free-photo/3d-sea-landscape_23-2151144902.jpg?t=st=1725949355~exp=1725952955~hmac=eb8731dd47fe46972b7d8773eb62ced56c0f82644c313588c6805dc92e8bea0a&w=1380"
+  },
+  {
+    "word": "Food",
+    "meaning": "Yiyecek",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-with-animated-cartoon-food-still-life_23-2151232665.jpg?t=st=1725949401~exp=1725953001~hmac=cbf81ad6af8d547711a9a6622c920579ce03b86b7d5e5525ec660090b77fcf1d&w=996"
+  },
+  {
+    "word": "Chair",
+    "meaning": "Sandalye",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-render-business-furniture-illustration_23-2151728588.jpg?t=st=1725949421~exp=1725953021~hmac=91b8b1b684119ab530d3fea6ef9a58b426d2c40062c9da2403096327a7b98242&w=826"
+  },
+  {
+    "word": "Table",
+    "meaning": "Masa",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-simple-wooden-desk-with-purple-book-pencil-holder-3d-illustration_1008419-6983.jpg?w=996"
+  },
+  {
+    "word": "School",
+    "meaning": "Okul",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-cartoon-illustration-school-building-background-3d-school-building_1293239-6940.jpg?w=826"
+  },
+  {
+    "word": "Phone",
+    "meaning": "Telefon",
+    "imageUrl": "https://img.freepik.com/premium-photo/illustration-3d-cartoon-smartphone-blue-colour-generative-ai_848094-7626.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Ball",
+    "meaning": "Top",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-beach-ball-icon-summer-fun-illustration-logo_762678-39421.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Computer",
+    "meaning": "Bilgisayar",
+    "imageUrl": "https://img.freepik.com/free-vector/computer-with-keyboard-icon-3d-style-colorful-realistic-pc-with-blank-monitor-white-background-flat-vector-illustration-cyberspace-internet-device-gadget-technology-concept_778687-1035.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Pen",
+    "meaning": "Kalem",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-journalism-press-item_23-2150233918.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Glass",
+    "meaning": "Bardak",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-rendering-delicious-beverage_23-2149108539.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Shoe",
+    "meaning": "Ayakkabı",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-running-shoe-icon-sports-footwear-logo-illustration_762678-33312.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Shirt",
+    "meaning": "Gömlek",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-with-cleaning-essentials_23-2151328283.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Bed",
+    "meaning": "Yatak",
+    "imageUrl": "https://img.freepik.com/premium-psd/bed-with-pink-green-headboard-pink-green-headboard_1217673-224802.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Lamp",
+    "meaning": "Lamba",
+    "imageUrl": "https://img.freepik.com/premium-photo/desk-lamp-icon-3d-illustration_752898-41.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Door",
+    "meaning": "Kapı",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-rendering-open-door-icon_978463-635.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Window",
+    "meaning": "Pencere",
+    "imageUrl": "https://img.freepik.com/free-psd/three-dimensional-real-estate-icon-mock-up_23-2149729141.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Cherry",
+    "meaning": "Kiraz",
+    "imageUrl": "https://img.freepik.com/premium-photo/pair-vibrant-3d-rendered-cherries-with-single-green-leaf-perfect-adding-touch-sweetness-your-designs_1151-176948.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Cup",
+    "meaning": "Fincan",
+    "imageUrl": "https://img.freepik.com/free-psd/coffee-cup-icon-isolated-3d-render-illustration_47987-9483.jpg?t=st=1725950367~exp=1725953967~hmac=f7abd4b17bf127edb381280dc2a8e7fa7fc76ce6526c45fd57d57f919a36da91&w=826"
+  },
+  {
+    "word": "Spoon",
+    "meaning": "Kaşık",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-measuring-spoon-icon-precise-volume-measurement-illustration-logo_762678-80383.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Fork",
+    "meaning": "Çatal",
+    "imageUrl": "https://img.freepik.com/premium-photo/silver-fork-light-blue-background_922664-18235.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Knife",
+    "meaning": "Bıçak",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-rendering-kitchen-tool-icon_23-2151247868.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Plate",
+    "meaning": "Tabak",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-plate-icon-essential-dining-ware-illustration-logo_762678-80193.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Mirror",
+    "meaning": "Ayna",
+    "imageUrl": "https://img.freepik.com/free-photo/round-window-with-beach-blue-sky-background_1340-26974.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Clock",
+    "meaning": "Saat",
+    "imageUrl": "https://img.freepik.com/free-psd/alarm-clock-reminder-important-events-appointments-3d-illustration_1419-3037.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Picture",
+    "meaning": "Resim",
+    "imageUrl": "https://img.freepik.com/premium-photo/colorful-3d-photo-frame-with-mountain-sun_1267718-28694.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Bag",
+    "meaning": "Çanta",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-illustration-with-mothers-day-icon_23-2151262226.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Boots",
+    "meaning": "Bot",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-rendering-garden-icon_23-2151444237.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Gloves",
+    "meaning": "Eldiven",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-rendering-garden-icon_23-2151444241.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Hat",
+    "meaning": "Şapka",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-spring-hat-icon-stylish-seasonal-headwear-illustration-logo_762678-95841.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Scarf",
+    "meaning": "Atkı",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-scarf-icon-fashion-winter-logo-illustration_762678-43316.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Jacket",
+    "meaning": "Ceket",
+    "imageUrl": "https://img.freepik.com/premium-psd/orange-jacket-with-striped-stripes-striped-collar_1217673-235700.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Sweater",
+    "meaning": "Kazak",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-sweater-icon-clothing-winter-logo-illustration_762678-43232.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Pants",
+    "meaning": "Pantolon",
+    "imageUrl": "https://img.freepik.com/premium-psd/pair-brown-tan-boots-with-yellow-buckle_1217673-237410.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Shorts",
+    "meaning": "Şort",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-shorts-icon-summer-clothing-casual-wear-illustration-logo_762678-60296.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Socks",
+    "meaning": "Çorap",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-socks-icon-essential-footwear-comfort-warmth-illustration-logo_762678-63604.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Belt",
+    "meaning": "Kemer",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-belt-icon-fashion-accessory-waist-support-logo-illustration_762678-76647.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Ring",
+    "meaning": "Yüzük",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-ring-icon-stylish-elegant-jewelry-illustration-logo_762678-79334.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Necklace",
+    "meaning": "Kolye",
+    "imageUrl": "https://img.freepik.com/premium-photo/heart-shaped-pendant-with-purple-heart-it_1187092-89031.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Earrings",
+    "meaning": "Küpe",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-earrings-icon-stylish-jewelry-fashion-accessory-illustration-logo_762678-63759.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Bracelet",
+    "meaning": "Bilezik",
+    "imageUrl": "https://img.freepik.com/free-psd/3d-rendering-pride-symbol_23-2149421716.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Sink",
+    "meaning": "Lavabo",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-illustration-sink-shape_960286-856.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Couch",
+    "meaning": "Koltuk",
+    "imageUrl": "https://img.freepik.com/premium-vector/sofa-isolated-white-background_978445-282.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "T-shirt",
+    "meaning": "Tişört",
+    "imageUrl": "https://img.freepik.com/premium-photo/3d-tshirt-icon-fashion-clothing-illustration-logo_762678-45184.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  },
+  {
+    "word": "Trash",
+    "meaning": "Çöp",
+    "imageUrl": "https://img.freepik.com/premium-photo/colorful-3d-illustration-trash-bin-surrounded-by-various-objects-perfect-representing-waste-disposal-recycling-cleaning-concepts_1057-201880.jpg?ga=GA1.1.1432797158.1700920391&semt=ais_hybrid"
+  }
+]
