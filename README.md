@@ -3,10 +3,10 @@
 ## Proje Açıklaması
 
 **WordyApp**, kullanıcılara farklı dillerde kelimeler öğretmeyi amaçlayan bir mobil uygulamadır. Uygulama, kelimelerin anlamlarını, görsellerini ve "learned" (öğrenildi) statülerini içerir. Kullanıcı, kelimeleri öğrenmek için kelime kartlarına tıklayabilir ve öğrendiklerini işaretleyebilir. Ayrıca, öğrenilen kelimeler kaydedilir ve daha sonra görüntülenebilir.
-<img src="https://github.com/aslibyr/WordyApp/blob/master/images/1.png" alt="Ekran Görüntüsü 1" width="400"/>
-<img src="https://github.com/aslibyr/WordyApp/blob/master/images/2.png" alt="Ekran Görüntüsü 2" width="400"/>
-<img src="https://github.com/aslibyr/WordyApp/blob/master/images/3.png" alt="Ekran Görüntüsü 3" width="400"/>
+
+<img src="https://github.com/aslibyr/WordyApp/blob/master/images/1.png" alt="Ekran Görüntüsü 1" width="400"/><img src="https://github.com/aslibyr/WordyApp/blob/master/images/2.png" alt="Ekran Görüntüsü 2" width="400"/><img src="https://github.com/aslibyr/WordyApp/blob/master/images/3.png" alt="Ekran Görüntüsü 3" width="400"/>
 <img src="https://github.com/aslibyr/WordyApp/blob/master/images/4.png" alt="Ekran Görüntüsü 4" width="400"/>
+
 ## Özellikler
 
 - Kelimeler liste halinde görüntülenir.
