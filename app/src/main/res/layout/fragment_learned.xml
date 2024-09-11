@@ -16,8 +16,11 @@
         android:layout_height="50dp"
         android:layout_gravity="end|bottom"
         android:layout_margin="16dp"
+        android:background="@drawable/round_button_background"
         android:clickable="true"
+        android:contentDescription="@string/reset_button"
         android:focusable="true"
+        android:src="@drawable/ic_arrow_up"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

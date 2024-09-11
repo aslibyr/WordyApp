@@ -2,4 +2,6 @@
     <string name="app_name">Wordy</string>
     <string name="reset_button">Reset Button</string>
     <string name="word_image">Word Image</string>
+    <string name="words">Words</string>
+    <string name="learned">Learned</string>
 </resources>

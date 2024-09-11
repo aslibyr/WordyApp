@@ -2,12 +2,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/homeFragment"
-        android:title="Words"
-        android:icon="@drawable/ic_launcher_foreground"
+        android:icon="@drawable/home_1946488"
+        android:title="@string/words"
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/learnedFragment"
-        android:title="Learned"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/favorite_9513826"
+        android:title="@string/learned"
         app:showAsAction="ifRoom"/>
 </menu>

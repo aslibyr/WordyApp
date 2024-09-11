@@ -16,7 +16,7 @@
         android:theme="@style/Theme.WordyApp"
         tools:targetApi="31">
         <activity
-            android:name=".ui.SplashActivity"
+            android:name=".ui.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.WordyApp">
             <intent-filter>
@@ -25,9 +25,5 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.MainActivity"
-            android:exported="true"
-            android:theme="@style/Theme.WordyApp"></activity>
     </application>
 </manifest>
