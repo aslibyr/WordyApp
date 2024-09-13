@@ -26,6 +26,7 @@ class HomeFragment : Fragment() {
 
     private lateinit var wordListAdapter: WordListAdapter
     private val viewModel by viewModels<HomeViewModel>()
+    var isShuffling = false
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -46,6 +47,7 @@ class HomeFragment : Fragment() {
         viewModel.updateLearnedWords(words)
 
         binding.swipeRefreshLayout.setOnRefreshListener {
+            isShuffling = true
             viewModel.shuffleWords()
             binding.swipeRefreshLayout.isRefreshing = false
         }
@@ -68,7 +70,12 @@ class HomeFragment : Fragment() {
                 val wordsList = words.map {
                     it.copy(isLearned = viewModel.isSavedLearned(it))
                 }.filter { it.isLearned.not() }
-                wordListAdapter.submitList(wordsList)
+                wordListAdapter.submitList(wordsList) {
+                    if (isShuffling) {
+                        binding.recyclerView.scrollToPosition(0)
+                        isShuffling = false
+                    }
+                }
             }
         }
     }
