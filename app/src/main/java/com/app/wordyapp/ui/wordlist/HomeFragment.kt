@@ -68,9 +68,7 @@ class HomeFragment : Fragment() {
                 val wordsList = words.map {
                     it.copy(isLearned = viewModel.isSavedLearned(it))
                 }.filter { it.isLearned.not() }
-                wordListAdapter.submitList(wordsList) {
-                    binding.recyclerView.scrollToPosition(0)
-                }
+                wordListAdapter.submitList(wordsList)
             }
         }
     }
